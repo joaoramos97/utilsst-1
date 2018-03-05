@@ -1,0 +1,10 @@
+
+
+.navbar{
+    height: 60px;
+}
+
+.container > img{
+    width: 20px;
+    margin: 5%;
+}
